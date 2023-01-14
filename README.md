@@ -1,6 +1,6 @@
 # Hi there 👋, My Name is Asib
 #### I'm frontend developer
-![I'm frontend developer]((https://www.linkedin.com/in/md-asib-9a90a6220/overlay/background-image/))
+![I'm frontend developer](https://www.linkedin.com/in/md-asib-9a90a6220/overlay/background-image/)
 
 I have complete my graduation. Now I'm looking for internship or entry level Job.
 
