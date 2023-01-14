@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Asib
 #### I'm Frontend Developer From Bangladesh.
-![I'm Frontend Developer From Bangladesh.](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=500)
+![I'm Frontend Developer From Bangladesh.](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=400)
 
 
 Skills: HTML/ CSS/ BOOTSTRAP/ TAILWIND/ JAVASCRIPT/ REACT
