@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, My Name is Asib
+#### I'm frontend developer
+![I'm frontend developer](https://images.app.goo.gl/iA8FePqCwWviK4gX6)
 
-<!--
-**asibhub/asibhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have complete my graduation. Now I'm looking for internship or entry level Job.
 
-Here are some ideas to get you started:
+Skills: HTML/ CSS/ BOOTSTRAP/ TAILWIND/ JAVASCRIPT/ REACT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asibhub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-asib-9a90a6220/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Asib.bro97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/asib_saheb/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asibhub&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asibhub)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=asibhub)  
+
+![Profile views](https://gpvc.arturio.dev/asibhub)  
